@@ -1,8 +1,6 @@
 # DECT-IFBP-MD
 Implementation and improvement of IFBP-MD algorithm for DECT
 
-# IFBP-MD for Dual-Energy CT Material Decomposition
-
 This repository contains a MATLAB implementation of the Iterative FBP-based Material Decomposition (IFBP-MD) algorithm, with optional regularization improvements.
 
 ## Features
